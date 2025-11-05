@@ -55,10 +55,11 @@
 ### 📊 Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=experticon&show_icons=true&theme=dark" alt="Experticon">
 
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Experticon&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-  
 <p align="center">
-  <img src="assets/resume_short.png" width="400" alt="Footer image" style="background-color: white; border-radius: 10px;/>
+  <img src="assets/resume_short.png" 
+       width="400" 
+       alt="Footer image" 
+       style="background-color: white; border-radius: 10px;" />
 </p>
